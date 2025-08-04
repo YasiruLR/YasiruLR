@@ -1,477 +1,231 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yasiru - Connect With Me</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# Hi there, I'm Yasiru Lakshan! 👋
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
-            background: linear-gradient(135deg, #0d1117 0%, #21262d 100%);
-            min-height: 100vh;
-            color: #c9d1d9;
-            overflow-x: hidden;
-        }
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=yasirulakshan&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/yasirulakshan?style=social)](https://github.com/yasirulakshan)
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-            position: relative;
-        }
+</div>
 
-        .background-animation {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: -1;
-        }
+## 🚀 About Me
 
-        .floating-element {
-            position: absolute;
-            width: 4px;
-            height: 4px;
-            background: #58a6ff;
-            border-radius: 50%;
-            animation: float 15s infinite linear;
-            opacity: 0.1;
-        }
+I'm **Yasiru Wickramasinghe** from Sri Lanka 🇱🇰
+- 🎓 Graduate from the University of Moratuwa in BSc(Hons) Computer Science and Engineering
+- 💼 Software Engineer @ PickMe
+- 🔭 Always open to collaborating on interesting projects
+- ⚡ Passionate about learning new technologies and building innovative solutions
+- 🏠 Working from home
 
-        @keyframes float {
-            0% {
-                transform: translateY(100vh) rotate(0deg);
-                opacity: 0;
-            }
-            10% {
-                opacity: 0.1;
-            }
-            90% {
-                opacity: 0.1;
-            }
-            100% {
-                transform: translateY(-100px) rotate(360deg);
-                opacity: 0;
-            }
-        }
+---
 
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-            position: relative;
-        }
+## 🌐 Connect With Me
 
-        .profile-section {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin-bottom: 2rem;
-        }
+<div align="center">
 
-        .avatar {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            background: linear-gradient(45deg, #58a6ff, #7c3aed);
-            padding: 3px;
-            margin-bottom: 1rem;
-            position: relative;
-            overflow: hidden;
-        }
+### 📱 Social Media & Professional Networks
 
-        .avatar::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(45deg, #58a6ff, #7c3aed, #f97316, #ec4899);
-            border-radius: 50%;
-            animation: rotate 3s linear infinite;
-            z-index: -1;
-        }
+<table>
+<tr>
+<td align="center" width="200px">
+<a href="https://github.com/yasirulakshan">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="50px" alt="GitHub"/><br/>
+<sub><b>GitHub</b></sub><br/>
+<sub>Code Repositories</sub>
+</a>
+</td>
 
-        .avatar-inner {
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-            background: #21262d;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 2.5rem;
-            font-weight: bold;
-            color: #58a6ff;
-            position: relative;
-            z-index: 1;
-        }
+<td align="center" width="200px">
+<a href="https://linkedin.com/in/yasirulakshan">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50px" alt="LinkedIn"/><br/>
+<sub><b>LinkedIn</b></sub><br/>
+<sub>Professional Network</sub>
+</a>
+</td>
 
-        @keyframes rotate {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
+<td align="center" width="200px">
+<a href="https://yasirulr.me">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" width="50px" alt="Portfolio"/><br/>
+<sub><b>Portfolio</b></sub><br/>
+<sub>Featured Projects</sub>
+</a>
+</td>
 
-        .name {
-            font-size: 2.5rem;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-            background: linear-gradient(45deg, #58a6ff, #7c3aed);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<td align="center" width="200px">
+<a href="https://twitter.com/yasirulakshan">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="50px" alt="Twitter"/><br/>
+<sub><b>Twitter</b></sub><br/>
+<sub>Tech Updates</sub>
+</a>
+</td>
+</tr>
 
-        .subtitle {
-            font-size: 1.2rem;
-            color: #8b949e;
-            margin-bottom: 2rem;
-        }
+<tr>
+<td align="center" width="200px">
+<a href="https://instagram.com/yasirulakshan">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50px" alt="Instagram"/><br/>
+<sub><b>Instagram</b></sub><br/>
+<sub>Personal Life</sub>
+</a>
+</td>
 
-        .social-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 2rem;
-        }
+<td align="center" width="200px">
+<a href="https://youtube.com/@yasirulakshan">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="50px" alt="YouTube"/><br/>
+<sub><b>YouTube</b></sub><br/>
+<sub>Tech Content</sub>
+</a>
+</td>
 
-        .social-card {
-            background: rgba(33, 38, 45, 0.8);
-            border: 1px solid #30363d;
-            border-radius: 12px;
-            padding: 1.5rem;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-            backdrop-filter: blur(10px);
-        }
+<td align="center" width="200px">
+<a href="https://medium.com/@yasirulakshan">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="50px" alt="Medium"/><br/>
+<sub><b>Medium</b></sub><br/>
+<sub>Technical Articles</sub>
+</a>
+</td>
 
-        .social-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, var(--accent-color), transparent);
-            transform: translateX(-100%);
-            transition: transform 0.3s ease;
-        }
+<td align="center" width="200px">
+<a href="https://stackoverflow.com/users/yasirulakshan">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="50px" alt="Stack Overflow"/><br/>
+<sub><b>Stack Overflow</b></sub><br/>
+<sub>Community Help</sub>
+</a>
+</td>
+</tr>
+</table>
 
-        .social-card:hover {
-            transform: translateY(-5px);
-            border-color: var(--accent-color);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-        }
+</div>
 
-        .social-card:hover::before {
-            transform: translateX(100%);
-        }
+---
 
-        .social-link {
-            text-decoration: none;
-            color: inherit;
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-        }
+## 🛠️ Tech Stack
 
-        .social-icon {
-            width: 50px;
-            height: 50px;
-            border-radius: 10px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5rem;
-            color: white;
-            flex-shrink: 0;
-        }
+<div align="center">
 
-        .social-info h3 {
-            font-size: 1.2rem;
-            margin-bottom: 0.5rem;
-            color: #f0f6fc;
-        }
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-        .social-info p {
-            color: #8b949e;
-            font-size: 0.9rem;
-        }
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-        /* Platform specific colors */
-        .github { --accent-color: #6e7681; }
-        .github .social-icon { background: linear-gradient(45deg, #24292f, #6e7681); }
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-        .linkedin { --accent-color: #0077b5; }
-        .linkedin .social-icon { background: linear-gradient(45deg, #0077b5, #00a0dc); }
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-        .twitter { --accent-color: #1da1f2; }
-        .twitter .social-icon { background: linear-gradient(45deg, #1da1f2, #1991db); }
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-        .instagram { --accent-color: #e4405f; }
-        .instagram .social-icon { background: linear-gradient(45deg, #e4405f, #fd1d1d, #fcb045); }
+</div>
 
-        .youtube { --accent-color: #ff0000; }
-        .youtube .social-icon { background: linear-gradient(45deg, #ff0000, #cc0000); }
+---
 
-        .medium { --accent-color: #00ab6c; }
-        .medium .social-icon { background: linear-gradient(45deg, #00ab6c, #00d084); }
+## 📊 GitHub Stats
 
-        .stackoverflow { --accent-color: #f48024; }
-        .stackoverflow .social-icon { background: linear-gradient(45deg, #f48024, #fe7a16); }
+<div align="center">
 
-        .portfolio { --accent-color: #7c3aed; }
-        .portfolio .social-icon { background: linear-gradient(45deg, #7c3aed, #a855f7); }
+<img src="https://github-readme-stats.vercel.app/api?username=yasirulakshan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 
-        .footer {
-            text-align: center;
-            margin-top: 3rem;
-            padding-top: 2rem;
-            border-top: 1px solid #30363d;
-            color: #8b949e;
-        }
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirulakshan&theme=radical" alt="GitHub Streak" />
 
-        .footer p {
-            margin-bottom: 0.5rem;
-        }
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulakshan&layout=compact&theme=radical" alt="Top Languages" />
 
-        .tech-stack {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            flex-wrap: wrap;
-            margin-top: 1rem;
-        }
+</div>
 
-        .tech-item {
-            background: rgba(88, 166, 255, 0.1);
-            border: 1px solid rgba(88, 166, 255, 0.3);
-            padding: 0.5rem 1rem;
-            border-radius: 20px;
-            font-size: 0.8rem;
-            color: #58a6ff;
-        }
+---
 
-        /* Mobile responsiveness */
-        @media (max-width: 768px) {
-            .container {
-                padding: 1rem;
-            }
-            
-            .name {
-                font-size: 2rem;
-            }
-            
-            .social-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="background-animation" id="backgroundAnimation"></div>
-    
-    <div class="container">
-        <div class="header">
-            <div class="profile-section">
-                <div class="avatar">
-                    <div class="avatar-inner">Y</div>
-                </div>
-                <h1 class="name">Yasiru Lakshan</h1>
-                <p class="subtitle">Software Engineer | Full Stack Developer | Open Source Enthusiast</p>
-            </div>
-        </div>
+## 🏆 Featured Projects
 
-        <div class="social-grid">
-            <div class="social-card github">
-                <a href="https://github.com/yasirulakshan" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>📱</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>GitHub</h3>
-                        <p>Check out my code repositories and open source contributions</p>
-                    </div>
-                </a>
-            </div>
+<div align="center">
 
-            <div class="social-card linkedin">
-                <a href="https://linkedin.com/in/yasirulakshan" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>💼</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>LinkedIn</h3>
-                        <p>Connect with me professionally and see my work experience</p>
-                    </div>
-                </a>
-            </div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yasirulakshan&repo=customized-react-date-range-picker&theme=radical)](https://github.com/yasirulakshan/customized-react-date-range-picker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yasirulakshan&repo=AStarAlgo&theme=radical)](https://github.com/yasirulakshan/AStarAlgo)
 
-            <div class="social-card twitter">
-                <a href="https://twitter.com/yasirulakshan" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>🐦</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>Twitter</h3>
-                        <p>Follow me for tech insights and development updates</p>
-                    </div>
-                </a>
-            </div>
+</div>
 
-            <div class="social-card instagram">
-                <a href="https://instagram.com/yasirulakshan" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>📸</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>Instagram</h3>
-                        <p>Get a glimpse into my personal life and travel adventures</p>
-                    </div>
-                </a>
-            </div>
+---
 
-            <div class="social-card youtube">
-                <a href="https://youtube.com/@yasirulakshan" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>🎥</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>YouTube</h3>
-                        <p>Watch my coding tutorials and tech content</p>
-                    </div>
-                </a>
-            </div>
+## 🎯 Current Focus
 
-            <div class="social-card medium">
-                <a href="https://medium.com/@yasirulakshan" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>✍️</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>Medium</h3>
-                        <p>Read my technical articles and development insights</p>
-                    </div>
-                </a>
-            </div>
+- 🔍 **Learning:** Advanced System Design & Microservices Architecture
+- 🛠️ **Building:** Scalable web applications with modern tech stack
+- 🤝 **Collaborating:** Open source projects and innovative solutions
+- 📝 **Writing:** Technical blogs about software development
 
-            <div class="social-card stackoverflow">
-                <a href="https://stackoverflow.com/users/yasirulakshan" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>❓</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>Stack Overflow</h3>
-                        <p>See my contributions to the developer community</p>
-                    </div>
-                </a>
-            </div>
+---
 
-            <div class="social-card portfolio">
-                <a href="https://yasirulr.me" class="social-link" target="_blank" rel="noopener">
-                    <div class="social-icon">
-                        <i>🌐</i>
-                    </div>
-                    <div class="social-info">
-                        <h3>Portfolio</h3>
-                        <p>Explore my complete portfolio and featured projects</p>
-                    </div>
-                </a>
-            </div>
-        </div>
+## 📈 Activity Graph
 
-        <div class="footer">
-            <p>Thanks for connecting! Let's build something amazing together.</p>
-            <div class="tech-stack">
-                <span class="tech-item">React</span>
-                <span class="tech-item">Node.js</span>
-                <span class="tech-item">Python</span>
-                <span class="tech-item">TypeScript</span>
-                <span class="tech-item">AWS</span>
-            </div>
-            <p style="margin-top: 2rem; font-size: 0.8rem;">© 2025 Yasiru Lakshan. Made with ❤️</p>
-        </div>
-    </div>
+<div align="center">
 
-    <script>
-        // Create floating background elements
-        function createFloatingElements() {
-            const container = document.getElementById('backgroundAnimation');
-            const numberOfElements = 15;
+[![Yasiru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasirulakshan&theme=react-dark&hide_border=true)](https://github.com/yasirulakshan)
 
-            for (let i = 0; i < numberOfElements; i++) {
-                const element = document.createElement('div');
-                element.className = 'floating-element';
-                element.style.left = Math.random() * 100 + '%';
-                element.style.animationDelay = Math.random() * 15 + 's';
-                element.style.animationDuration = (Math.random() * 10 + 10) + 's';
-                container.appendChild(element);
-            }
-        }
+</div>
 
-        // Add hover effects to social cards
-        document.querySelectorAll('.social-card').forEach(card => {
-            card.addEventListener('mouseenter', function() {
-                this.style.transform = 'translateY(-8px) scale(1.02)';
-            });
-            
-            card.addEventListener('mouseleave', function() {
-                this.style.transform = 'translateY(0) scale(1)';
-            });
-        });
+---
 
-        // Initialize floating elements
-        createFloatingElements();
+## 💭 Random Dev Quote
 
-        // Add some interactive sparkles on click
-        document.addEventListener('click', function(e) {
-            const sparkle = document.createElement('div');
-            sparkle.style.position = 'fixed';
-            sparkle.style.left = e.clientX + 'px';
-            sparkle.style.top = e.clientY + 'px';
-            sparkle.style.width = '10px';
-            sparkle.style.height = '10px';
-            sparkle.style.background = '#58a6ff';
-            sparkle.style.borderRadius = '50%';
-            sparkle.style.pointerEvents = 'none';
-            sparkle.style.zIndex = '1000';
-            sparkle.style.animation = 'sparkle 0.6s ease-out forwards';
-            
-            document.body.appendChild(sparkle);
-            
-            setTimeout(() => {
-                sparkle.remove();
-            }, 600);
-        });
+<div align="center">
 
-        // Add sparkle animation
-        const style = document.createElement('style');
-        style.textContent = `
-            @keyframes sparkle {
-                0% {
-                    transform: scale(0) rotate(0deg);
-                    opacity: 1;
-                }
-                50% {
-                    transform: scale(1) rotate(180deg);
-                    opacity: 0.8;
-                }
-                100% {
-                    transform: scale(0) rotate(360deg);
-                    opacity: 0;
-                }
-            }
-        `;
-        document.head.appendChild(style);
-    </script>
-</body>
-</html>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🎵 Currently Listening To
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yasirulakshan)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Thanks for visiting my profile!
+
+**Let's connect and build something amazing together! 🚀**
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yasirulakshan.yasirulakshan)
+
+---
+
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+</div>
+
+---
+
+## 📧 Get In Touch
+
+<div align="center">
+
+📧 **Email:** [yasiru.lakshan@example.com](mailto:yasiru.lakshan@example.com)  
+🌐 **Website:** [yasirulr.me](https://yasirulr.me)  
+📍 **Location:** Colombo, Sri Lanka 🇱🇰
+
+**Response Time:** Usually within 24 hours ⚡
+
+</div>
