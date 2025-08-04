@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Software%20Engineer%20%26%20Designer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Crafting%20digital%20experiences%20with%20code%20and%20creativity&descAlignY=51&descAlign=50)
 
 </div>
 
