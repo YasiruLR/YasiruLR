@@ -53,19 +53,19 @@ const yasiru: YasiruProfile = {
 
 ### 📊 Yasiru's Contribution Overview
 
-[![Yasiru's GitHub activity graph](https://ghchart.rshah.org/YasiruLakshan)](https://github.com/YasiruLakshan)
+[![Yasiru's GitHub activity graph](https://ghchart.rshah.org/YasiruLR)](https://github.com/YasiruLR)
 
-[![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLakshan\&show_icons=true\&theme=tokyonight)](https://github.com/YasiruLakshan)
+[![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR\&show_icons=true\&theme=tokyonight)](https://github.com/YasiruLR)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruLakshan\&layout=compact\&theme=tokyonight)](https://github.com/YasiruLakshan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruLR\&layout=compact\&theme=tokyonight)](https://github.com/YasiruLR)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YasiruLakshan\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YasiruLR\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 📈 Contribution Line Chart
 
-[![Yasiru's Contribution Line Chart](https://github-readme-activity-graph.vercel.app/graph?username=YasiruLakshan\&theme=react-dark\&bg_color=0D1117\&color=667eea\&line=764ba2\&point=f093fb\&area=true\&hide_border=true)](https://github.com/YasiruLakshan)
+[![Yasiru's Contribution Line Chart](https://github-readme-activity-graph.vercel.app/graph?username=YasiruLR\&theme=react-dark\&bg_color=0D1117\&color=667eea\&line=764ba2\&point=f093fb\&area=true\&hide_border=true)](https://github.com/YasiruLR)
 
 ---
 
@@ -78,11 +78,11 @@ const yasiru: YasiruProfile = {
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YasiruLakshan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/YasiruLR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yasiru-lakshan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yasirulakshanr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-___Yasiru Lakshan Rathnayaka___
+____Yasiru Lakshan Rathnayaka___
