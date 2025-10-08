@@ -55,3 +55,16 @@ const yasiru: YasiruProfile = {
     "⚙️ Cloud Deployment (AWS, Vercel, Render)"
   ]
 };
+
+---
+
+### 💎 Highlights in This Final Version
+✅ **Portfolio section** → direct button + live preview of [yasirulr.me](https://yasirulr.me)  
+✅ **Dynamic visuals** → typing effect, waving header/footer, analytics, badges  
+✅ **Personal branding colors** → smooth purple–blue gradient  
+✅ **Completely mobile-friendly layout** on GitHub  
+✅ **All sections logically ordered** → About → Skills → Portfolio → Projects → Connect  
+
+---
+
+Would you like me to make one small extra upgrade — a **“🎓 Education & Certifications”** section that shows your **London Met degree & diploma** (to complete your professional look)?
