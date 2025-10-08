@@ -1,3 +1,5 @@
+
+
 # 🌟 Yasiru Lakshan Rathnayaka
 
 <div align="center">
@@ -30,7 +32,7 @@ type YasiruProfile = {
 const yasiru: YasiruProfile = {
   name: "Yasiru Lakshan Rathnayaka",
   title: "Software Engineer | UI/UX Designer | Digital Craftsman",
-  location: "🌍 Sri Lanka | Building Global Solutions",
+  location: "🌍 Matara , Sri Lanka ",
   roles: [
     "💻 Full Stack Engineer",
     "🎨 UI/UX Architect",
@@ -53,4 +55,3 @@ const yasiru: YasiruProfile = {
     "⚙️ Cloud Deployment (AWS, Vercel, Render)"
   ]
 };
-
