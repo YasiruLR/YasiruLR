@@ -26,7 +26,7 @@ interface Developer {
 
 const yasiru: Developer = {
   name: "Yasiru Lakshan Rathnayaka",
-  location: "Sri Lanka 🇱🇰 | Building Global Solutions",
+  location: "Matara , Sri Lanka 🇱🇰 ",
   roles: [
     "Full Stack Engineer", 
     "UI/UX Architect", 
@@ -126,9 +126,7 @@ const yasiru: Developer = {
 
 ---
 
-## 📅 Daily Contribution Calendar
 
-<div align="center">
 
 ### 🔥 My Coding Journey - Every Commit Counts
 
