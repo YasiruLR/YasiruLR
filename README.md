@@ -128,9 +128,7 @@ const yasiru: Developer = {
 
 
 
-### 🔥 My Coding Journey - Every Commit Counts
 
-<img src="https://ghchart.rshah.org/667eea/yasirulr" alt="GitHub Contributions Chart" width="100%"/>
 
 <br><br>
 
