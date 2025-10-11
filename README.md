@@ -53,8 +53,6 @@ const yasiru: YasiruProfile = {
 
 ### 📊 Yasiru's Contribution Overview
 
-[![Yasiru's GitHub activity graph](https://ghchart.rshah.org/YasiruLR)](https://github.com/YasiruLR)
-
 [![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR\&show_icons=true\&theme=tokyonight)](https://github.com/YasiruLR)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruLR\&layout=compact\&theme=tokyonight)](https://github.com/YasiruLR)
