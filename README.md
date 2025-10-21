@@ -351,7 +351,6 @@ const manifesto = {
   goal: "Transform imagination into interactive reality"
 };
 ```
-
 ---
 
 
