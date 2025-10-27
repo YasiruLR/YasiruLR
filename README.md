@@ -368,7 +368,7 @@ const manifesto = {
 ### 📈 Contribution Line Chart
 
 [![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR&show_icons=true&theme=tokyonight)](https://github.com/YasiruLR)
-
+[![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR\&show_icons=true\&theme=tokyonight)](https://github.com/YasiruLR)
 
 ---
 
