@@ -372,6 +372,9 @@ const manifesto = {
 
 ---
 
+![YasiruLR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR&show_icons=true&theme=radical)
+
+
 ## 📈 My GitHub Stats
 
 ![YasiruLR's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YasiruLR&theme=github-compact&hide_border=true)
