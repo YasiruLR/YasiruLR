@@ -372,6 +372,11 @@ const manifesto = {
 
 ---
 
+## 📈 My GitHub Stats
+
+![YasiruLR's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YasiruLR&theme=github-compact&hide_border=true)
+
+
 ## 🧰 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=react,typescript,java,spring,html,css,tailwind,nodejs,mysql,aws,figma,git,github,vscode,vercel)
