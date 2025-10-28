@@ -1,405 +1,96 @@
+<!-- 3D Futuristic GitHub Profile by Yasiru Lakshan -->
+
+<!-- 🚀 Upgraded 3D Intro Section for Yasiru Lakshan's GitHub README -->
 <div align="center">
 
-# 『 YASIRU LAKSHAN RATHNAYAKA 』
+<!-- 🔮 Futuristic Neon Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=180&section=header&text=Yasiru%20Lakshan%20Rathnayaka%20🚀&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="header" />
 
-██╗   ██╗ █████╗ ███████╗██╗██████╗ ██╗   ██╗    ██╗      █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
-╚██╗ ██╔╝██╔══██╗██╔════╝██║██╔══██╗██║   ██║    ██║     ██╔══██╗██║  ██║██╔════╝██║  ██║██╔══██╗████╗  ██║
- ╚████╔╝ ███████║███████╗██║██████╔╝██║   ██║    ██║     ███████║███████║███████╗███████║███████║██╔██╗ ██║
-  ╚██╔╝  ██╔══██║╚════██║██║██╔══██╗██║   ██║    ██║     ██╔══██║██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║
-   ██║   ██║  ██║███████║██║██║  ██║╚██████╔╝    ███████╗██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-
-
-### ⚡ Digital Alchemist • Code Artisan • Experience Architect
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Transforming+Ideas+Into+Digital+Masterpieces;Where+Design+Meets+Engineering+Excellence;Crafting+Tomorrow's+Web+Experiences+Today" alt="Typing SVG" />
-
-```diff
-+ Currently Architecting: AI-Powered Web Ecosystems
-! Location: 🌴 Matara, Sri Lanka 🇱🇰
-# Status: Building the Future, One Commit at a Time
-```
-
-</div>
+<!-- 🧠 Typing Intro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Hi+I'm+Yasiru+Lakshan;🚀+Full+Stack+Developer;💡+AI+and+Tech+Innovator;🎨+Creative+Thinker+%26+Designer;🌍+Transforming+Ideas+Into+Reality" alt="Typing SVG" />
 
 ---
 
-<div align="center">
-
-## 『 ⚡ THE ARSENAL ⚡ 』
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Sorcery
-```yaml
-frameworks:
-  - React.js ⚛️
-  - Next.js ▲
-  - React Native 📱
-  
-styling:
-  - TailwindCSS 🌊
-  - Styled Components 💅
-  - Framer Motion 🎭
-  
-state_management:
-  - Redux Toolkit 🔄
-  - Zustand 🐻
-  - React Query 🔍
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Wizardry
-```yaml
-languages:
-  - Java ☕
-  - TypeScript 📘
-  - Python 🐍
-  
-frameworks:
-  - Spring Boot 🍃
-  - Node.js + Express 🚂
-  - FastAPI ⚡
-  
-security:
-  - JWT Authentication 🔐
-  - OAuth 2.0 🛡️
-  - Spring Security 🔒
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗄️ Data Engineering
-```yaml
-databases:
-  - PostgreSQL 🐘
-  - MongoDB 🍃
-  - Redis ⚡
-  
-orm:
-  - Hibernate 🌊
-  - Prisma 🔷
-  - Mongoose 🦫
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & DevOps
-```yaml
-platforms:
-  - AWS ☁️
-  - Vercel ▲
-  - Render 🎨
-  
-tools:
-  - Docker 🐳
-  - GitHub Actions 🤖
-  - Nginx 🌐
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 『 🧬 THE CODE PHILOSOPHY 』
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🎯
-**PRECISION**
-```
-Every pixel
-matters
-```
-
-</td>
-<td align="center" width="25%">
-
-### ⚡
-**PERFORMANCE**
-```
-Speed is not
-a luxury
-```
-
-</td>
-<td align="center" width="25%">
-
-### 🧠
-**INTUITION**
-```
-Design that
-thinks ahead
-```
-
-</td>
-<td align="center" width="25%">
-
-### 🔧
-**CRAFTSMANSHIP**
-```
-Clean code
-clean mind
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 『 📊 BATTLE STATS 』
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasiruLakshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruLakshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasiruLakshan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
-
-<div align="center">
-
-## 『 🚀 CURRENT MISSIONS 』
-
-</div>
-
-```typescript
-interface CurrentMissions {
-  mission_001: {
-    title: "🔐 Fortress Authentication",
-    tech: ["Spring Boot", "JWT", "Redis"],
-    status: "🟢 Active Development"
-  },
-  mission_002: {
-    title: "🧠 AI Integration Matrix",
-    tech: ["OpenAI API", "LangChain", "Vector DB"],
-    status: "🟡 Research Phase"
-  },
-  mission_003: {
-    title: "📱 Cross-Platform Domination",
-    tech: ["React Native", "Expo", "TypeScript"],
-    status: "🟢 Active Development"
-  },
-  mission_004: {
-    title: "☁️ Cloud Architecture",
-    tech: ["AWS", "Docker", "Kubernetes"],
-    status: "🔵 Deployment Phase"
-  }
-}
-```
-
----
-
-<div align="center">
-
-## 『 💎 SIGNATURE PROJECTS 』
-
-</div>
-
-<details>
-<summary>🎯 <b>PROJECT ALPHA</b> - Next-Gen SaaS Platform</summary>
-
-```javascript
-const project = {
-  name: "PROJECT ALPHA",
-  description: "Enterprise-grade SaaS with AI capabilities",
-  stack: {
-    frontend: ["Next.js 14", "TypeScript", "TailwindCSS"],
-    backend: ["Spring Boot", "PostgreSQL", "Redis"],
-    deployment: ["AWS EC2", "RDS", "S3"]
-  },
-  features: [
-    "🤖 AI-Powered Analytics",
-    "🔐 Multi-tenant Architecture", 
-    "⚡ Real-time Collaboration",
-    "📊 Advanced Dashboard"
-  ],
-  impact: "10K+ Active Users | 99.9% Uptime"
-}
-```
-
-**[View Project →](https://github.com/yasiruLakshan/project-alpha)**
-
-</details>
-
-<details>
-<summary>🎯 <b>PROJECT NEXUS</b> - Mobile Experience Reimagined</summary>
-
-```javascript
-const project = {
-  name: "PROJECT NEXUS",
-  description: "Cross-platform mobile app with offline-first architecture",
-  stack: {
-    mobile: ["React Native", "Expo", "TypeScript"],
-    backend: ["Node.js", "MongoDB", "Socket.io"],
-    state: ["Zustand", "React Query"]
-  },
-  features: [
-    "📱 Offline Mode",
-    "🔔 Push Notifications",
-    "🎨 Adaptive UI/UX",
-    "⚡ Real-time Updates"
-  ],
-  impact: "50K+ Downloads | 4.8★ Rating"
-}
-```
-
-**[View Project →](https://github.com/yasiruLakshan/project-nexus)**
-
-</details>
-
-<details>
-<summary>🎯 <b>PROJECT ZENITH</b> - Design System & Component Library</summary>
-
-```javascript
-const project = {
-  name: "PROJECT ZENITH",
-  description: "Production-ready React component library",
-  stack: {
-    core: ["React", "TypeScript", "Styled Components"],
-    tools: ["Storybook", "Jest", "Chromatic"],
-    build: ["Rollup", "Babel", "ESLint"]
-  },
-  features: [
-    "🎨 50+ Components",
-    "♿ WCAG AAA Compliant",
-    "📱 Responsive & Adaptive",
-    "🌙 Dark Mode Support"
-  ],
-  impact: "NPM Package | 1K+ Weekly Downloads"
-}
-```
-
-**[View Project →](https://github.com/yasiruLakshan/project-zenith)**
-
-</details>
-
----
-
-<div align="center">
-
-## 『 🎨 CREATIVE PROCESS 』
-
-```mermaid
-graph LR
-    A[💡 Ideation] --> B[🎨 Design]
-    B --> C[⚙️ Architect]
-    C --> D[💻 Develop]
-    D --> E[🧪 Test]
-    E --> F[🚀 Deploy]
-    F --> G[📊 Monitor]
-    G --> A
-    
-    style A fill:#00F7FF,stroke:#00F7FF,color:#000
-    style B fill:#00F7FF,stroke:#00F7FF,color:#000
-    style C fill:#00F7FF,stroke:#00F7FF,color:#000
-    style D fill:#00F7FF,stroke:#00F7FF,color:#000
-    style E fill:#00F7FF,stroke:#00F7FF,color:#000
-    style F fill:#00F7FF,stroke:#00F7FF,color:#000
-    style G fill:#00F7FF,stroke:#00F7FF,color:#000
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 『 🌐 CONNECT WITH ME 』
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&logoColor=black)](https://yasirulakshan.dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-00F7FF?style=for-the-badge&logoColor=black)](https://linkedin.com/in/yasiruLakshan)
-[![Twitter](https://img.shields.io/badge/🐦_TWITTER-00F7FF?style=for-the-badge&logoColor=black)](https://twitter.com/yasiruLakshan)
-[![Email](https://img.shields.io/badge/📧_EMAIL-00F7FF?style=for-the-badge&logoColor=black)](mailto:yasiru@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 『 💭 PHILOSOPHY 』
-
-```typescript
-const manifesto = {
-  belief: "Code is poetry written in logic",
-  approach: "Design with purpose, engineer with precision",
-  mindset: "Every line of code is a brushstroke on the digital canvas",
-  goal: "Transform imagination into interactive reality"
-};
-```
----
-
-
-</div>
-### 📊 Yasiru's Contribution Overview
-
-[![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR\&show_icons=true\&theme=tokyonight)](https://github.com/YasiruLR)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruLR\&layout=compact\&theme=tokyonight)](https://github.com/YasiruLR)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YasiruLR\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### 📈 Contribution Line Chart
-
-[![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR&show_icons=true&theme=tokyonight)](https://github.com/YasiruLR)
-[![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR\&show_icons=true\&theme=tokyonight)](https://github.com/YasiruLR)
-
----
-
-![YasiruLR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR&show_icons=true&theme=radical)
-
-
-## 📈 My GitHub Stats
-
-![YasiruLR's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YasiruLR&theme=github-compact&hide_border=true)
-
-
-## 🧰 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=react,typescript,java,spring,html,css,tailwind,nodejs,mysql,aws,figma,git,github,vscode,vercel)
-
----
-
-## 🌐 Connect With Me
+### 🌌 Welcome to My 3D Tech Universe 🌌
 
 <p align="center">
-<a href="https://github.com/YasiruLR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yasiru-lakshan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yasirulakshanr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="3D Snake animation" width="100%" />
 </p>
 
 ---
 
-____Yasiru Lakshan Rathnayaka___
+<!-- ✨ Floating Glow Text Effect -->
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Building-Next_Level_Experiences-00FFFF?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Sri_Lanka-7B2FF7?style=for-the-badge&logo=google-earth&logoColor=white" />
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
+<!-- 🌐 Animated 3D Separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7b2ff7&height=2&section=footer" width="80%" />
 
-** Yasiru | Last Updated: 2025**
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yasiruLakshan&color=00F7FF&style=flat-square&label=VISITORS)
+### 🧠 About Me
+🪐 Final-year Software Engineering student at **London Metropolitan University (Top-up)**  
+💻 Passionate about **AI, Web Development, and System Design**  
+🌱 Currently building: **SmartBiz – AI-Powered Business Suite for SMEs**  
+🎯 Goal: Create impactful, intelligent digital experiences  
+📍 Based in **Sri Lanka**
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| 💻 Frontend | ⚙️ Backend | 🧠 AI/ML | 🗄️ Database | ☁️ Cloud & Tools |
+|:------------:|:------------:|:-----------:|:--------------:|:----------------:|
+| React.js ⚡ Next.js ⚡ Tailwind CSS | Node.js ⚡ Express ⚡ Spring Boot | OpenAI API ⚡ TensorFlow | MySQL ⚡ MongoDB | AWS ⚡ Docker ⚡ Postman |
+
+</div>
+
+---
+
+### 🧩 Featured Projects
+
+#### 🪞 My Salon
+> 💇 Web-based booking platform for the beauty salon industry in Sri Lanka.
+
+#### 🚌 Bus Booking & Tracking System
+> 🚍 Real-time bus scheduling and tracking system using Node.js and MySQL.
+
+#### 🧠 SmartBiz
+> 🤖 AI-powered Business Management Suite for SMEs.
+
+---
+
+### 🏆 GitHub Stats
+
+<div align="center">
+  
+![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiruLR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruLR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7B2FF7)
+  
+</div>
+
+---
+
+### 🌀 3D Contribution World
+
+[![3D Profile](https://raw.githubusercontent.com/youyanggu/github-profile-3d-contrib/main/profile-night-rainbow.svg)](https://github.com/YasiruLR)
+
+---
+
+### 💬 Connect With Me
+
+<a href="mailto:yasirulakshanr@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yasiru-lakshan"><img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YasiruLR"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+### ⚡ “Turning ideas into digital reality.”
+
+</div>
+
+<!-- End of 3D README -->
